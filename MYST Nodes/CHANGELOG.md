@@ -1,9 +1,9 @@
 # What's Changed
 
-## v1.0.0
+## v1.0.1
 
 ### Added
-- Initial release of the Mysterium Nodes add-on
+- Updated copyright year to 2026
 
 ### Fixed
-- N/A (Initial release)
+- N/A
