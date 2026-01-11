@@ -1,3 +1,16 @@
 name: "Home Assistant Add-ons"
 url: "https://github.com/jpwaters09/Home-Assistant-Addons"
 maintainer: "Jacob Waters <jpwaters09.business@gmail.com>"
+
+addons:
+  MYST_Nodes:
+    name: "MYST Nodes"
+    slug: "myst_nodes"
+    description: "Run your own Mysterium Network node on Home Assistant and earn MYST tokens."
+    url: "https://github.com/jpwaters09/Home-Assistant-Addons/tree/main/MYST%20Nodes"
+
+  Spoolman:
+    name: "Spoolman"
+    slug: "spoolman"
+    description: "Manage your 3D printer filament with Spoolman on Home Assistant and keep track of your spools effortlessly."
+    url: "https://github.com/jpwaters09/Home-Assistant-Addons/tree/main/Spoolman"

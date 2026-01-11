@@ -1,5 +1,5 @@
 name: MYST Nodes
-description: Run your own Mysterium Network node on Home Assistant and earn MYST tokens
+description: Run your own Mysterium Network node on Home Assistant and earn MYST tokens.
 version: "1.0.1"
 webui: http://[HOST]:[PORT:4449]
 url: https://github.com/Jpwaters09/Home-Assistant-Addons/tree/main/MYST%20Nodes
