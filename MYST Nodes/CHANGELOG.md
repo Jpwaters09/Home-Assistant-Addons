@@ -1,9 +1,6 @@
 # What's Changed
 
-## v1.0.1
+## v1.0.2
 
 ### Added
-- Updated copyright year to 2026
-
-### Fixed
-- N/A
+- Updated MYST Nodes to version 1.37.2
