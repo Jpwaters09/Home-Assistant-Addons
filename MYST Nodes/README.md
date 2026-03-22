@@ -10,7 +10,6 @@ If you encounter any issues, feel free to contact me at [jpwaters09.business@gma
 <a href="https://github.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="40" alt="GitHub Logo"/></a>
 <a href="https://x.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=flat" height="40" alt="X Logo"/></a>
 <a href="https://patreon.com/Jpwaters09"><img src="https://img.shields.io/static/v1?message=Patreon&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=flat" height="40" alt="Patreon Logo"/></a>
-<a href="https://paypal.me/JacobW120"><img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=flat" height="40" alt="PayPal Logo"/></a>
 
 ---
 
