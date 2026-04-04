@@ -1,4 +1,4 @@
-FROM ghcr.io/donkie/spoolman:latest
+FROM ghcr.io/donkie/spoolman:v0.23.1
 
 COPY run.sh /run.sh
 
