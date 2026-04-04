@@ -1,6 +1,6 @@
 name: Spoolman
 description: Manage your 3D printer filament with Spoolman on Home Assistant and keep track of your spools effortlessly
-version: "1.0.0"
+version: "0.23.1"
 webui: http://[HOST]:[PORT:7912]
 url: https://github.com/Jpwaters09/Home-Assistant-Addons/tree/main/Spoolman/
 maintainer: Jacob Waters
