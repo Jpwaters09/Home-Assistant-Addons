@@ -1,6 +1,6 @@
 name: "Home Assistant Add-ons"
 url: "https://github.com/jpwaters09/Home-Assistant-Addons"
-maintainer: "Jacob Waters <jpwaters09.business@gmail.com>"
+maintainer: "Jacob Waters <contact.jpwaters09@gmail.com>"
 
 addons:
   MYST_Nodes:
