@@ -1,9 +1,6 @@
 # What's Changed
 
-## v1.0.0
+## v0.23.1
 
 ### Added
-- Initial release of the Spoolman add-on
-
-### Fixed
-- N/A (Initial release)
+- Updated Spoolman to version 0.23.1
