@@ -3,7 +3,7 @@
 #### **Note**: This add-on is an unofficial Home Assistant integration for Spoolman.
 
 Developed by **Jacob Waters**. \
-If you encounter any issues, feel free to contact me at [jpwaters09.business@gmail.com](mailto:jpwaters09.business@gmail.com)
+If you encounter any issues, feel free to contact me at [contact.jpwaters09@gmail.com](mailto:contact.jpwaters09@gmail.com)
 
 
 <a href="https://github.com/jpwaters09"><img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=flat" height="40" alt="GitHub Logo"/></a>
