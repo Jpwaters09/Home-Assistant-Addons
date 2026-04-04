@@ -28,7 +28,4 @@ options:
   accept_terms_and_conditions: false
 
 schema:
-
   accept_terms_and_conditions: bool
-
-
