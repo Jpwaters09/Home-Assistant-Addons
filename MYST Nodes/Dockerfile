@@ -1,4 +1,4 @@
-FROM mysteriumnetwork/myst:1.37.9-alpine
+FROM mysteriumnetwork/myst:1.38.5-alpine
 
 RUN apk update && apk add jq
 
