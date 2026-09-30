@@ -1,4 +1,4 @@
-FROM donkieyo/spoolman:0.26.1
+FROM donkieyo/spoolman:0.27.0
 
 COPY run.sh /run.sh
 

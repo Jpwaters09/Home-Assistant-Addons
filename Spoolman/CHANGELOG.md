@@ -1,6 +1,6 @@
 # What's Changed
 
-## v0.26.1
+## v0.27.0
 
 ### Added
-- Updated Spoolman to version 0.26.1
+- Updated Spoolman to version 0.27.0
