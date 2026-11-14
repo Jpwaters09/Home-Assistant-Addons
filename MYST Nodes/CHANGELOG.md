@@ -1,6 +1,6 @@
 # What's Changed
 
-## v1.39.7
+## v1.39.9
 
 ### Added
-- Updated MYST Nodes to version 1.39.7
+- Updated MYST Nodes to version 1.39.9
